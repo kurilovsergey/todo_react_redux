@@ -1,4 +1,5 @@
 ![Иллюстрация к проекту](https://github.com/kurilovsergey/todo_react_redux/blob/master/src/components/img/screen.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
