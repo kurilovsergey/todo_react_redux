@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import RemoveTodo from './RemoveTodo.js'
+import RemoveTodo from '../reducers/RemoveTodo.js'
 import s from './Todo.module.css'
 
 debugger;
