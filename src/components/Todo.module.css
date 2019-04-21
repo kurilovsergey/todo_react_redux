@@ -1,0 +1,13 @@
+.completed{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 30px;
+	text-decoration: line-through;
+}
+
+.none{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 30px;
+}
+

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP|Roboto|Yanone+Kaffeesatz');
+
+body{
+	background: #5250d4; /* Old browsers */
+    background: -moz-linear-gradient(top, #5250d4 0%, #5250d4 100%, #142c49 100%, #82add6 100%);
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+
+button{
+	background-image: linear-gradient(-179deg,#1bfffd,#25b9f3);
+    box-shadow: 0 0 12px 0 rgba(19,52,121,.12), 0 12px 12px 0 rgba(19,52,121,.24);
+    border-radius: calc(.825vmin + 12.5px);
+    outline: none;
+    border: none;
+    opacity: .87;
+    font-size: calc(.6vmin + 7px);
+    color: #fff;
+    cursor: pointer;
+    height: calc(1.65vmin + 17.5px);
+    box-sizing: border-box;
+    line-height: calc(1.6vmin + 17px);
+    font-size: 20px;
+}
+

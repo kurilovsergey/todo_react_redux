@@ -1,0 +1,37 @@
+.todotitle{
+	font-size: 70px;
+	color: white;
+}
+
+input{
+    width: 100%;
+    outline: 0;
+    border: 0;
+    border-bottom: 2px solid #fff;
+    background: transparent;
+    font-size: 30px;
+    color: hsla(0,0%,100%,.9);
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    color: white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+input::placeholder {
+    color: white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 1.2em;
+    font-style: italic;
+    opacity: 0.7;
+    font-size: 20px;
+}
+
+
+button{
+	margin-left: 20px;
+}
+
+
+
